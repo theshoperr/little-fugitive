@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.studiofirework.littlefugitive"
+    versionCode = "10"
+    version     = "1.0.3" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Little Fugitive</name>
+
+  <description>
+      A game by StudioFirework
+  </description>
+
+  <author href="https://google.com" email="mat11godinho@hotmail.com">
+      StudioFirework
+  </author>
+  
+  <icon src="icon.png" />
+
+</widget>
